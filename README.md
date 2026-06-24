@@ -1,5 +1,10 @@
 # OpenCore EFI for ASRock H61M-VG4 + i5-3570 (Ivy Bridge)
 
+> **Notice**
+>
+> This repository is archived and no longer maintained. No future updates are planned.
+
+
 This is an OpenCore EFI configuration configured for my PC:
 
 ## Hardware
@@ -28,3 +33,5 @@ I was unable to properly map and configure the remaining USB ports.
 This EFI is provided as-is and was created specifically for my hardware configuration. Compatibility with other systems is not guaranteed.
 
 Use at your own risk.
+
+
